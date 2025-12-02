@@ -3,5 +3,5 @@ Classify images of handwritten or printed alphabet characters (English or Arabic
 
 + VGG-19 architecture from scratch with its implementation
 + ResNet using its pre-trained model with only transfer learning on your dataset
-+ nception V1 using its pre-trained model with only transfer learning on your dataset
-+ bileNet or ViT (Vision Transformer)
++ Inception V1 using its pre-trained model with only transfer learning on your dataset
++ MobileNet or ViT (Vision Transformer)
